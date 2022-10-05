@@ -1,5 +1,5 @@
 👋 Hi, I’m JK
-=============
+-------------
 
 - 👀 I’m interested in Graphics, App and Web Design
 - 🌱 I’m currently learning Web development
