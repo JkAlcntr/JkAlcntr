@@ -34,8 +34,6 @@ I'm an IT Student currently learning Web Development with an interest in graphic
 
 ---
 
-![JkAlcntr's GitHub stats](https://github-readme-stats.vercel.app/api?username=JkAlcntr&theme=github_dark&show_icons=true)
-
 
 <!---
 JkAlcntr/JkAlcntr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
