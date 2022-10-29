@@ -2,8 +2,16 @@
 
 **`Digital Craftsman`**
 
-I'm an IT Student currently learning Web Development with an interest in graphics, app and web design.
+I'm an IT Student currently studying Web Development.
 
+I have interest in: 
+
+* Front-End Development
+* Graphic Design
+* App & Web UI/UX Design
+* Computer Hardware & Software
+* Troubleshooting  
+        
 <p align="center">
       <a href="https://github.com/JkAlcntr?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/JkAlcntr?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
